@@ -18,5 +18,9 @@ Project 1 : The objective of this project is to apply the knowledge you have gai
 the basic structure of a webpage, and creating headings, paragraphs, lists, and links to create a
 personal portfolio website
 
+project 2 : This project is a creative transformation of a simple web page into something visually stunning and engaging. With a strong focus on aesthetic design and user appeal, it demonstrates how creativity can enhance the look and feel of a webpage using only HTML and CSS. The goal was simple: to make the page more attractive and stunning — and this project delivers exactly that with style and clarity.
+
+
+
 
 
