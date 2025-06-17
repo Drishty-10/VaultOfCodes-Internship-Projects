@@ -13,6 +13,7 @@ Tools: Git, VS Code, Postman, etc.
 
 
 📚 Projects
+
 Project Name : Personal Portfolio Website
 Project 1 : The objective of this project is to apply the knowledge you have gained about HTML,
 the basic structure of a webpage, and creating headings, paragraphs, lists, and links to create a
